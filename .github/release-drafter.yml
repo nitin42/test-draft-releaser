@@ -1,0 +1,10 @@
+categories:
+  - title: Documentation 📑
+    label: documentation
+  - title: 🐛 Bug Fixes
+    label: fix
+
+template: |
+  ## What’s Changed
+
+  $CHANGES
