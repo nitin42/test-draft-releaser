@@ -1,3 +1,3 @@
 # test-draft-releaser
 
-Some new documentation
+Some new documentation for this project
