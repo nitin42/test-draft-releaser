@@ -1,9 +1,8 @@
 categories:
-  - title: Documentation 📑
-    label: documentation
+  - title: 🚀 Features
+    label: feature
   - title: 🐛 Bug Fixes
     label: fix
-
 template: |
   ## What’s Changed
 
